@@ -1,0 +1,8 @@
+{
+    "channel_id": "",
+    "max_size_mb": 1900,
+    "threads": 4,
+    "compression_level": 0,
+    "delete_after_upload": true,
+    "max_concurrent_transmissions": 2
+}
