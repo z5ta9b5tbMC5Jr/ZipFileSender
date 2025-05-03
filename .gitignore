@@ -1,0 +1,44 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Telegram session files
+*.session
+*.session-journal
+
+# Log files
+*.log
+
+# Directories
+input/*
+output/*
+!input/.gitkeep
+!output/.gitkeep
+.dist/
+
+# Environment variables
+.env
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# User-specific files
+*.session
+*.session-journal
+user.session
