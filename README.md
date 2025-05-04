@@ -3,6 +3,9 @@
 ## Descrição
 ZipFileSender é uma ferramenta para automatizar o envio de arquivos para canais do Telegram. O programa divide automaticamente os arquivos em partes de tamanho adequado para o Telegram (por padrão, até 1900 MB), compacta-os e envia sequencialmente para o canal configurado.
 
+## Créditos á parte
+Existe um repositório aonde o mantendedor diz ter parte do seu código copiado por mim, sem problemas aqui está uma menção pelos nomes iguais: https://github.com/viniped/Zip-File-Sender
+
 ## Características
 - Autenticação via API do Telegram (api_id e api_hash)
 - Divisão automática de arquivos em partes
